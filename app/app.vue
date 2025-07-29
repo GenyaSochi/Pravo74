@@ -1,8 +1,8 @@
 <template>
   <HeaderComponent></HeaderComponent>
   <NuxtPage />
-  <FooterComponent></FooterComponent>
-  <UpButtonComponent></UpButtonComponent>  
+  <!-- <FooterComponent></FooterComponent>
+  <UpButtonComponent></UpButtonComponent>   -->
 </template>
 <style>
 @import url(~/assets/reset.css);
