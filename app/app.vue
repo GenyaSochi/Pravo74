@@ -1,5 +1,6 @@
 <template>
   <HeaderComponent></HeaderComponent>
+  <MainComponent></MainComponent>
   <NuxtPage />
   <FooterComponent></FooterComponent>
   <!-- <UpButtonComponent></UpButtonComponent>   -->
