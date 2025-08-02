@@ -1,22 +1,17 @@
-<template> 
-<div class="photo">
-  <img src="/img/photo_main.webp" alt="photo">
-   <img src="/img/auto.webp" alt="photo">
-   <img src="/img/photo3.webp" alt="photo">
-  <img src="/img/photo4.webp" alt="photo">
-</div>
-
+<template>
+  <div class="container">
+    <h1>юридическая помощь по семейным и административным делам</h1>
+    <p>Отмена судебных приказов за 48 часов</p>
+    <h2>Юристы с 20-летним опытом в узкопрофильных направлениях права найдут оптимальное решение для
+      вашего случая</h2>
+  </div>
 </template>
 
 <script setup lang="ts">
 </script>
 
 <style scoped>
-.photo {
-  display: flex;
-  gap: 20px;
-  height: 300px;
-  border-radius: 15px;
-  
+img {
+  width: 100%;
 }
 </style>
