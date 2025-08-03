@@ -1,9 +1,7 @@
-<template> 
-    Main
+<template>
+    <MainPagesTitle></MainPagesTitle>
+    <MainPagesServices></MainPagesServices>
+    <MainPagesAbout></MainPagesAbout>
 </template>
 
-<script setup lang="ts">
-</script>
 
-<style scoped>
-</style>
