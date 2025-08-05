@@ -1,4 +1,7 @@
-<template>{{route.params.name}}</template>
+<template>
+  <!-- {{route.params.name}} -->
+  {{route}}
+</template>
 
 
 <script setup lang="ts">
