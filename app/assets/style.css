@@ -13,7 +13,9 @@ a {
   width: 100%;
   max-width: 1920px;
   margin: 0 auto;
-  padding: 20px;    
+  padding: 20px;
+  background-color: #333333;
+  color: white;
 }
 
 h1 {
@@ -24,7 +26,5 @@ h1 {
 
 strong {
   font-size: 24px;
-  text-align: center;  
+  text-align: center;
 }
-
-
