@@ -1,7 +1,7 @@
 <template>
-    <MainPagesTitle></MainPagesTitle>
-    <MainPagesServices></MainPagesServices>
-    <MainPagesAbout></MainPagesAbout>
+    <MainPagesTitleSection></MainPagesTitleSection>
+    <MainPagesServicesSection></MainPagesServicesSection>
+    <!-- <MainPagesAboutSection></MainPagesAboutSection> -->
 </template>
 
 

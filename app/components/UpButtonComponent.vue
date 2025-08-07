@@ -35,11 +35,11 @@ const totop = () => {
 
 <style scoped>
 .button {
-  background-color: rgba(56, 52, 52, 0.7);
+  background-color: rgba(212, 175, 55, 0.7);
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  color: rgb(240, 25, 25);
+  color: white;
   text-align: center;
   cursor: pointer;
   position: fixed;

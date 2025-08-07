@@ -7,12 +7,11 @@
       </div>
       <div class="allheader">
         <NuxtLink to="/">главная</NuxtLink>
-        <NuxtLink to="/services">услуги</NuxtLink>
+        <NuxtLink to="/Services">услуги</NuxtLink>
         <NuxtLink to="/about">о нас</NuxtLink>
         <NuxtLink to="/reviews">отзывы</NuxtLink>
         <div class="info">
-          <NuxtLink to="/contacts">+7-922-700-30-11</NuxtLink>
-          <!-- <NuxtLink to="/contacts">pravo74.rf@yandex.ru</NuxtLink> -->
+          <NuxtLink to="/contacts">+7-922-700-30-11</NuxtLink>       
         </div>
       </div>
 
@@ -23,14 +22,13 @@
 <script setup lang="ts">
 import { NuxtLink } from '#components';
 
-
 </script>
 
 <style scoped>
 .all {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-between;  
   background-color: black;
   color: white;
   font-size: 20px;
@@ -38,13 +36,15 @@ import { NuxtLink } from '#components';
 }
 
 .allheader {
-
+  background: #D4AF37;
+  box-shadow: 0 0 10px rgba(212, 175, 55, 0.7);
+  color: white;
   display: flex;
   font-size: 16px;
   gap: 20px;
   align-items: center;
-  justify-content: space-evenly;
-  padding: 10px;
+  justify-content: flex-start;
+  padding: 10px 10px 10px 20px;
 }
 
 .info {
@@ -70,3 +70,4 @@ import { NuxtLink } from '#components';
   box-shadow: 0 0 10px rgba(212, 175, 55, 0.7);
 }
 </style>
+

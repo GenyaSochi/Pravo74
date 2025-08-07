@@ -9,13 +9,15 @@ a {
   text-decoration: none;
 }
 
+body {
+  background: url(/img/back.webp)    
+
+}
+
 .container {
   width: 100%;
-  max-width: 1920px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #333333;
-  color: white;
+  max-width: 1640px;
+  margin: 0 auto;  
 }
 
 h1 {

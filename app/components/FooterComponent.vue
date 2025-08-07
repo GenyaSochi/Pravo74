@@ -1,14 +1,18 @@
 <template>
   <footer class="info">
-    <div>
-FOOTER
-    
+    <div class="foot">
+      FOOTER
     </div>
   </footer>
 </template>
 <script setup lang="ts"></script>
 <style scoped>
 .info {
-  background-color: rgb(53, 52, 52);;
+  background-color: rgba(53, 52, 52, 0.8);
+  height: 170px;
+}
+
+.foot {
+  color: white;
 }
 </style>
