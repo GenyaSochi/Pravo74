@@ -131,6 +131,7 @@ const text = [
 
 .main {
   background-color: black;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.7);
   color: white;
   opacity: 0.8;
   padding: 20px;

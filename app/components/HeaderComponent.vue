@@ -1,6 +1,6 @@
 <template>
   <header>
-    <nav>
+    <nav class="container">
       <div class="all">
         <p class="text">Res iudicata pro veritate habetur</p>
         <button class="consult">заказать консультацию</button>
@@ -14,7 +14,6 @@
           <NuxtLink to="/contacts">+7-922-700-30-11</NuxtLink>       
         </div>
       </div>
-
     </nav>
   </header>
 </template>
