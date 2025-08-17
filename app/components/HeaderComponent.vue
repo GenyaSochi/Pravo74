@@ -3,7 +3,7 @@
     <nav class="container">
       <div class="all">
         <p class="text">Res iudicata pro veritate habetur</p>
-        <button class="consult">заказать консультацию</button>
+        <NuxtButton class="consult">заказать консультацию</NuxtButton>
       </div>
       <div class="allheader">
         <NuxtLink to="/">главная</NuxtLink>
@@ -20,6 +20,7 @@
 
 <script setup lang="ts">
 import { NuxtLink } from '#components';
+
 
 </script>
 
