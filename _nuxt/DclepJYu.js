@@ -1,0 +1,1 @@
+import{_ as t,c as n,d as o,a as r,F as s,o as a}from"./B4zEIPt9.js";const l={};function d(f,e){return a(),n(s,null,[e[0]||(e[0]=o(" контакты ",-1)),e[1]||(e[1]=r("p",null,"pravo74.rf@yandex.ru",-1)),e[2]||(e[2]=r("p",null,"+7-922-700-30-11",-1))],64)}const u=t(l,[["render",d]]);export{u as default};

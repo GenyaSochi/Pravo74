@@ -1,0 +1,1 @@
+import{_ as a,c as o,a as t,o as s}from"./B4zEIPt9.js";const c={};function n(r,e){return s(),o("div",null,e[0]||(e[0]=[t("p",{class:"about_info"},"Если Вы попали в сложнуюжизненную ситуацию.............Звоните! Разрулим :)",-1)]))}const f=a(c,[["render",n],["__scopeId","data-v-af41040c"]]);export{f as default};
